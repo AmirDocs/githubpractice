@@ -49,6 +49,8 @@ sudo apt upgrade -y
 
 #### Installing Nginx
 
+![alt text](<Screenshot 2025-01-24 120253.png>)
+
 To install the Nginx web server:
 
 ```bash
